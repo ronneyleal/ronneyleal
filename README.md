@@ -10,7 +10,15 @@
   <img align="center" alt="Ronney-HTML" height="33" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ronney-CSS" height="33" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ronney-Js" height="33" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ronney-Git" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Ronney-bootstrap" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Ronney-Photoshop" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  || <span>Studying --> </span>
   <img align="center" alt="Ronney-React" height="33" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ronney-Typescript" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ronney-Nodejs" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ronney-Elixir" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg">
+  <img align="center" alt="Ronney-MySQL" height="33" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Ronney-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/725852294377373738/977959413803515924/Ronney-Leal-Cartoonizer.png">
 </div>
   
